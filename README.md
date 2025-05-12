@@ -1,7 +1,7 @@
 # AUTOMATIZACIÓN DE PRUEBAS FUNCIONALIDADES AMAZON ITALIA WEB 
 ### Robot Framework + Python
 Gestion de compras online
-
+..
 ## Descripcion
 Este proyecto ejecuta una serie de casos de prueba para validar funcionalidades de búsqueda en la página web de Amazon Italia. El objetivo es simular el comportamiento del usuario final al buscar artículos mediante:
 La barra de búsqueda general
